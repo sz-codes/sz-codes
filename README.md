@@ -1,5 +1,13 @@
 ## Hi there 👋
+## Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sz-codes&layout=compact&theme=radical" alt="sz-codes's top languages" />
+</p>
 
+## Visitors Count
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sz-codes&label=Profile%20views&color=0e75b6&style=flat" alt="sz-codes" /> 
+</p>
 <!--
 **sz-codes/sz-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
